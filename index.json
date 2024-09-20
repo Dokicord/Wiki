@@ -1,9 +1,7 @@
-{
-  "embeds": [
-    {
-      "type": "rich",
-      "color": 16760289,
-      "title": "index"
-    }
-  ]
-}
+"embeds": [
+  {
+    "type": "rich",
+    "color": 16760289,
+    "title": "index"
+  }
+]
