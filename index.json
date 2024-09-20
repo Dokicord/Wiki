@@ -1,7 +1,5 @@
-"embeds": [
-  {
-    "type": "rich",
-    "color": 16760289,
-    "title": "index"
-  }
-]
+{
+  "type": "rich",
+  "color": 16760289,
+  "title": "index"
+}
